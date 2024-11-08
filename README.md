@@ -4,8 +4,4 @@ The project applies AI models like YOLOv8  for object detection and classificati
 For ease of user interaction, the interface provides adjustable confidence thresholds and displays detected items as recyclable or non-recyclable.
 By streamlining waste categorization, this tool can potentially enhance recycling efforts and reduce environmental impact, providing a user-friendly, accessible solution for effective waste management.
 
-
-
-
-
-
+note :  if you want the h5 file contact me vasamsiddhartha02@gmail.com
